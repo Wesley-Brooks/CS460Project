@@ -1,1 +1,0 @@
-cmd_/home/wesleybrooks/mak/maK_it.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/wesleybrooks/mak/maK_it.ko /home/wesleybrooks/mak/maK_it.o /home/wesleybrooks/mak/maK_it.mod.o
